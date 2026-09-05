@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   description:
     "MARAHIL — a luxury Arabian fragrance house. Six chapters follow the day's prayers. Same bottle forever.",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://iamraheelali.github.io/aamirali_sons_co/"),
   openGraph: {
     siteName: "MARAHIL",
     type: "website",
@@ -59,3 +59,4 @@ export default function RootLayout({
     </html>
   );
 }
+
