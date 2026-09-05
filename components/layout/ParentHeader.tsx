@@ -21,7 +21,7 @@ export function ParentHeader() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3" aria-label="Aamir Ali & Sons Co. home">
             <Image
-              src="./images/brand/aas-monogram.svg"
+              src="/aamirali_sons_co/images/brand/aas-monogram.svg"
               alt="Aamir Ali & Sons Co."
               width={40}
               height={40}
