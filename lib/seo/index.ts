@@ -3,7 +3,7 @@ import { siteConfig } from "@/lib/site";
 import type { Product } from "@/types/product";
 import { formatPrice } from "@/lib/pricing";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://iamraheelali.github.io/aamirali_sons_co";
 
 export function metadataForSite(
   key: "parent" | "fahl" | "aniqa",
