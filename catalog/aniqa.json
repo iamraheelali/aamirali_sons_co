@@ -1,0 +1,279 @@
+[
+  {
+    "id": "a-bad",
+    "name": "MARAHIL AL-ANIQA Bad’",
+    "slug": "marahil-al-aniqa-bad",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "bad",
+    "arabicName": "بد",
+    "prayer": "Fajr",
+    "colorName": "Soft Gold",
+    "colorHex": "#D4AF37",
+    "description": "The first chapter. A soft first light, white musk and rose.",
+    "meaning": "Fresh start",
+    "juiceNotes": [
+      "White Musk",
+      "Rose"
+    ],
+    "topNotes": [
+      "White Musk"
+    ],
+    "heartNotes": [
+      "Rose"
+    ],
+    "baseNotes": [],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-BAD-50",
+    "sku100": "MRH-A-BAD-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 1
+  },
+  {
+    "id": "a-ishraq",
+    "name": "MARAHIL AL-ANIQA Ishraq",
+    "slug": "marahil-al-aniqa-ishraq",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "ishraq",
+    "arabicName": "إشراق",
+    "prayer": "Sunrise",
+    "colorName": "Bright Gold",
+    "colorHex": "#EBC94A",
+    "description": "The second chapter. Luminous saffron and rose at sunrise.",
+    "meaning": "Energy",
+    "juiceNotes": [
+      "Saffron",
+      "Rose",
+      "Luminous"
+    ],
+    "topNotes": [
+      "Saffron"
+    ],
+    "heartNotes": [
+      "Rose"
+    ],
+    "baseNotes": [
+      "Luminous"
+    ],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-ISH-50",
+    "sku100": "MRH-A-ISH-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 2
+  },
+  {
+    "id": "a-zuhr",
+    "name": "MARAHIL AL-ANIQA Zuhr",
+    "slug": "marahil-al-aniqa-zuhr",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "zuhr",
+    "arabicName": "ظهر",
+    "prayer": "Dhuhr",
+    "colorName": "Warm Gold",
+    "colorHex": "#C99A3E",
+    "description": "The third chapter. Warm vanilla and soft oud at noon.",
+    "meaning": "Noon",
+    "juiceNotes": [
+      "Warm Vanilla",
+      "Soft Oud"
+    ],
+    "topNotes": [
+      "Warm Vanilla"
+    ],
+    "heartNotes": [
+      "Soft Oud"
+    ],
+    "baseNotes": [],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-ZUH-50",
+    "sku100": "MRH-A-ZUH-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 3
+  },
+  {
+    "id": "a-athar",
+    "name": "MARAHIL AL-ANIQA Athar",
+    "slug": "marahil-al-aniqa-athar",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "athar",
+    "arabicName": "أثر",
+    "prayer": "Asr",
+    "colorName": "Rose Gold",
+    "colorHex": "#B76E79",
+    "description": "The fourth chapter. Rose and gold oud, ward of the afternoon.",
+    "meaning": "Afternoon",
+    "juiceNotes": [
+      "Rose",
+      "Gold Oud",
+      "Ward"
+    ],
+    "topNotes": [
+      "Rose"
+    ],
+    "heartNotes": [
+      "Gold Oud"
+    ],
+    "baseNotes": [
+      "Ward"
+    ],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-ATH-50",
+    "sku100": "MRH-A-ATH-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 4
+  },
+  {
+    "id": "a-wasl",
+    "name": "MARAHIL AL-ANIQA Wasl",
+    "slug": "marahil-al-aniqa-wasl",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "wasl",
+    "arabicName": "وصل",
+    "prayer": "Maghrib",
+    "colorName": "Ember",
+    "colorHex": "#A0522D",
+    "description": "The fifth chapter. Amber and ward at the hour of union.",
+    "meaning": "Union",
+    "juiceNotes": [
+      "Amber",
+      "Ward"
+    ],
+    "topNotes": [
+      "Amber"
+    ],
+    "heartNotes": [
+      "Ward"
+    ],
+    "baseNotes": [],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-WAS-50",
+    "sku100": "MRH-A-WAS-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 5
+  },
+  {
+    "id": "a-layl",
+    "name": "MARAHIL AL-ANIQA Layl",
+    "slug": "marahil-al-aniqa-layl",
+    "branch": "aniqa",
+    "category": "fragrance",
+    "chapter": "layl",
+    "arabicName": "ليل",
+    "prayer": "Isha",
+    "colorName": "Black Gold",
+    "colorHex": "#3C3A36",
+    "description": "The sixth chapter. Dark musk, pearl and amber through the night.",
+    "meaning": "Night",
+    "juiceNotes": [
+      "Dark Musk",
+      "Pearl",
+      "Amber"
+    ],
+    "topNotes": [
+      "Dark Musk"
+    ],
+    "heartNotes": [
+      "Pearl"
+    ],
+    "baseNotes": [
+      "Amber"
+    ],
+    "price50": 125,
+    "price100": 185,
+    "sku": "MRH-A-LAY-50",
+    "sku100": "MRH-A-LAY-100",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 6
+  },
+  {
+    "id": "a-disc",
+    "name": "MARAHIL Discovery",
+    "slug": "marahil-discovery-aniqa",
+    "branch": "aniqa",
+    "category": "discovery",
+    "arabicName": "اكتشاف",
+    "description": "Four 10ml chapters. The complete ritual, gathered. Begin your collection.",
+    "discoverySize": "4 × 10ml",
+    "discoveryPrice": 85,
+    "price": 85,
+    "sku": "MRH-A-DISC-40",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 7
+  },
+  {
+    "id": "a-bead",
+    "name": "Onyx Rose Bead",
+    "slug": "onyx-rose-bead",
+    "branch": "aniqa",
+    "category": "jewelry",
+    "arabicName": "خرزة الورد",
+    "description": "Onyx rose bead. A quiet ornament worn with the chapter it keeps.",
+    "material": "rose",
+    "price": 95,
+    "sku": "MRH-J-A-BEAD-R",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 8
+  },
+  {
+    "id": "a-cuff",
+    "name": "Cuff Anaqa Rose Gold",
+    "slug": "cuff-anaqa-rose-gold",
+    "branch": "aniqa",
+    "category": "jewelry",
+    "arabicName": "سوار الأنيقة",
+    "description": "Anaqa cuff in rose gold. مراحل الأنيقة. Soft strength on the wrist.",
+    "material": "rosegold",
+    "price": 245,
+    "sku": "MRH-J-A-CUFF-RG",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 9
+  },
+  {
+    "id": "a-ring",
+    "name": "Ring Pearl Aqeeq",
+    "slug": "ring-pearl-aqeeq",
+    "branch": "aniqa",
+    "category": "jewelry",
+    "arabicName": "خاتم اللؤلؤ",
+    "description": "Pearl aqeeq ring. A signature of the house, in soft light.",
+    "material": "pearl",
+    "price": 175,
+    "sku": "MRH-J-A-RING-P",
+    "isActive": true,
+    "isMemorialEdition": false,
+    "sortOrder": 10
+  },
+  {
+    "id": "a-gift",
+    "name": "Gift Box Elegance",
+    "slug": "gift-box-elegance",
+    "branch": "aniqa",
+    "category": "gift",
+    "arabicName": "صندوق الأناقة",
+    "description": "Cream box, rose-gold details. Choose a chapter, with bracelet and ring. A complete ritual, given.",
+    "material": "rosegold",
+    "price": 395,
+    "sku": "MRH-SET-ANA-01",
+    "isActive": true,
+    "isMemorialEdition": true,
+    "sortOrder": 11
+  }
+]

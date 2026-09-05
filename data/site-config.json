@@ -1,0 +1,85 @@
+{
+  "parent": {
+    "key": "parent",
+    "domain": "aamiralisons.com",
+    "name": "Aamir Ali & Sons Co. LLC",
+    "arabicName": "عامر علي آند سنز",
+    "route": "/",
+    "description": "Parent company of MARAHIL. A quiet luxury fragrance house in Abu Dhabi, built around the six stages of the day.",
+    "theme": {
+      "background": "#F2EFE8",
+      "surface": "#FAF8F3",
+      "foreground": "#1B1D1B",
+      "muted": "#3A4538",
+      "accent": "#A8894D",
+      "accentSoft": "#E6E1D7",
+      "border": "#D8D4CA"
+    },
+    "seo": {
+      "title": "Aamir Ali & Sons Co. LLC | MARAHIL",
+      "description": "MARAHIL — a luxury Arabian fragrance house. Six chapters follow the day's prayers. Same bottle forever. Parent company: Aamir Ali & Sons Co. LLC, Abu Dhabi."
+    },
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "Marahil", "href": "/#marahil" },
+      { "label": "Company", "href": "/company" },
+      { "label": "Contact", "href": "/#contact" }
+    ]
+  },
+  "fahl": {
+    "key": "fahl",
+    "domain": "al-fahl.marahil.ae",
+    "name": "MARAHIL AL-FAHL",
+    "arabicName": "الفحل",
+    "route": "/fahl",
+    "description": "MARAHIL AL-FAHL — the men's luxury fragrance store. Six chapters, one bottle. Collect your day, not a trend.",
+    "theme": {
+      "background": "#161816",
+      "surface": "#1B1D1B",
+      "foreground": "#F2EFE8",
+      "muted": "#AEB5AA",
+      "accent": "#A8894D",
+      "accentSoft": "#2C332C",
+      "border": "#3A4538"
+    },
+    "seo": {
+      "title": "MARAHIL AL-FAHL | Collect Your Day",
+      "description": "MARAHIL AL-FAHL — the men's luxury fragrance store. Six chapters follow the day's prayers. Same bottle forever."
+    },
+    "navigation": [
+      { "label": "Home", "href": "/fahl" },
+      { "label": "Collection", "href": "/fahl#collection" },
+      { "label": "Discovery", "href": "/fahl#discovery" },
+      { "label": "Atelier", "href": "/fahl#atelier" },
+      { "label": "Gifts", "href": "/fahl#gifts" }
+    ]
+  },
+  "aniqa": {
+    "key": "aniqa",
+    "domain": "al-aniqa.marahil.ae",
+    "name": "MARAHIL AL-ANIQA",
+    "arabicName": "الأنيقة",
+    "route": "/aniqa",
+    "description": "MARAHIL AL-ANIQA — the women's luxury fragrance store. Six chapters, one bottle. Collect your day, not a trend.",
+    "theme": {
+      "background": "#F2EFE8",
+      "surface": "#FAF8F3",
+      "foreground": "#1B1D1B",
+      "muted": "#3A4538",
+      "accent": "#A8894D",
+      "accentSoft": "#E6E1D7",
+      "border": "#D8D4CA"
+    },
+    "seo": {
+      "title": "MARAHIL AL-ANIQA | Collect Your Day",
+      "description": "MARAHIL AL-ANIQA — the women's luxury fragrance store. Six chapters follow the day's prayers. Same bottle forever."
+    },
+    "navigation": [
+      { "label": "Home", "href": "/aniqa" },
+      { "label": "Collection", "href": "/aniqa#collection" },
+      { "label": "Discovery", "href": "/aniqa#discovery" },
+      { "label": "Atelier", "href": "/aniqa#atelier" },
+      { "label": "Gifts", "href": "/aniqa#gifts" }
+    ]
+  }
+}

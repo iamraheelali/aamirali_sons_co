@@ -1,0 +1,50 @@
+[
+  {
+    "key": "bad",
+    "number": "01",
+    "chapter": "Bad’",
+    "prayer": "Fajr",
+    "colorName": "Soft Gold",
+    "colorHex": "#D4AF37"
+  },
+  {
+    "key": "ishraq",
+    "number": "02",
+    "chapter": "Ishraq",
+    "prayer": "Sunrise",
+    "colorName": "Bright Gold",
+    "colorHex": "#EBC94A"
+  },
+  {
+    "key": "zuhr",
+    "number": "03",
+    "chapter": "Zuhr",
+    "prayer": "Dhuhr",
+    "colorName": "Warm Gold",
+    "colorHex": "#C99A3E"
+  },
+  {
+    "key": "athar",
+    "number": "04",
+    "chapter": "Athar",
+    "prayer": "Asr",
+    "colorName": "Rose Gold",
+    "colorHex": "#B76E79"
+  },
+  {
+    "key": "wasl",
+    "number": "05",
+    "chapter": "Wasl",
+    "prayer": "Maghrib",
+    "colorName": "Ember",
+    "colorHex": "#A0522D"
+  },
+  {
+    "key": "layl",
+    "number": "06",
+    "chapter": "Layl",
+    "prayer": "Isha",
+    "colorName": "Black Gold",
+    "colorHex": "#3C3A36"
+  }
+]

@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-border: var(--border);
+
+  --text-xs: 11px;
+  --text-sm: 13px;
+  --text-base: 15px;
+  --text-lg: 18px;
+  --text-xl: 24px;
+  --text-2xl: 32px;
+  --text-3xl: 44px;
+  --text-4xl: 60px;
+
+  --tracking-label: 0.18em;
+  --tracking-nav: 0.14em;
+}
+
+:root,
+[data-branch="parent"] {
+  --background: #f2efe8;
+  --surface: #faf8f3;
+  --foreground: #1b1d1b;
+  --muted: #3a4538;
+  --accent: #a8894d;
+  --accent-soft: #e6e1d7;
+  --border: #d8d4ca;
+}
+
+[data-branch="fahl"] {
+  --background: #161816;
+  --surface: #1b1d1b;
+  --foreground: #f2efe8;
+  --muted: #aeb5aa;
+  --accent: #a8894d;
+  --accent-soft: #2c332c;
+  --border: #3a4538;
+}
+
+[data-branch="aniqa"] {
+  --background: #f2efe8;
+  --surface: #faf8f3;
+  --foreground: #1b1d1b;
+  --muted: #3a4538;
+  --accent: #a8894d;
+  --accent-soft: #e6e1d7;
+  --border: #d8d4ca;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--background);
+}
+
+/* Refined focus ring for accessibility. */
+:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 3px;
+}
+
+@layer utilities {
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+  .tracking-label {
+    letter-spacing: var(--tracking-label);
+  }
+  .tracking-nav {
+    letter-spacing: var(--tracking-nav);
+  }
+  .text-label {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-label);
+    text-transform: uppercase;
+  }
+  .text-nav {
+    font-size: 12px;
+    letter-spacing: var(--tracking-nav);
+    text-transform: uppercase;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+/* Subtle entrance animations — used sparingly. */
+@keyframes marahil-fade {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes marahil-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes marahil-drawer {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes marahil-overlay {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade {
+  animation: marahil-fade 0.6s ease forwards;
+}
+.animate-reveal {
+  animation: marahil-reveal 0.8s ease forwards;
+}
+.animate-drawer {
+  animation: marahil-drawer 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+.animate-overlay {
+  animation: marahil-overlay 0.25s ease forwards;
+}
