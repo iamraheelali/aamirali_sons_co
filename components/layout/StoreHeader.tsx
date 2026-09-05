@@ -23,7 +23,7 @@ export function StoreHeader({ branch }: { branch: Branch }) {
         <div className="flex items-center justify-between h-28">
           <Link href={site.route} className="flex items-center gap-5 leading-tight" aria-label={`${site.name} home`}>
             <Image
-              src="/images/marahil/marahil-crest.png"
+              src="../images/marahil/marahil-crest.png"
               alt="MARAHIL"
               width={72}
               height={72}

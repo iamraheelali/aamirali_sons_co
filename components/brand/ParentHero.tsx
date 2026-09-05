@@ -10,7 +10,7 @@ export function ParentHero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 animate-reveal">
             <Image
-              src="/images/brand/aas-wordmark.svg"
+              src="./images/brand/aas-wordmark.svg"
               alt="Aamir Ali & Sons Co."
               width={420}
               height={118}

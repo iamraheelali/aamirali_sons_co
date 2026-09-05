@@ -20,7 +20,7 @@
     "price100": 185,
     "sku": "MRH-F-BAD-50",
     "sku100": "MRH-F-BAD-100",
-    "imageUrl": "/images/fahl/bad.png",
+    "imageUrl": "../images/fahl/bad.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 1
@@ -46,7 +46,7 @@
     "price100": 185,
     "sku": "MRH-F-ISH-50",
     "sku100": "MRH-F-ISH-100",
-    "imageUrl": "/images/fahl/ishraq.png",
+    "imageUrl": "../images/fahl/ishraq.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 2
@@ -72,7 +72,7 @@
     "price100": 185,
     "sku": "MRH-F-ZUH-50",
     "sku100": "MRH-F-ZUH-100",
-    "imageUrl": "/images/fahl/zuhr.png",
+    "imageUrl": "../images/fahl/zuhr.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 3
@@ -98,7 +98,7 @@
     "price100": 185,
     "sku": "MRH-F-ATH-50",
     "sku100": "MRH-F-ATH-100",
-    "imageUrl": "/images/fahl/athar.png",
+    "imageUrl": "../images/fahl/athar.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 4
@@ -124,7 +124,7 @@
     "price100": 185,
     "sku": "MRH-F-WAS-50",
     "sku100": "MRH-F-WAS-100",
-    "imageUrl": "/images/fahl/wasl.png",
+    "imageUrl": "../images/fahl/wasl.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 5
@@ -150,7 +150,7 @@
     "price100": 185,
     "sku": "MRH-F-LAY-50",
     "sku100": "MRH-F-LAY-100",
-    "imageUrl": "/images/fahl/layl.png",
+    "imageUrl": "../images/fahl/layl.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 6
@@ -167,7 +167,7 @@
     "discoveryPrice": 85,
     "price": 85,
     "sku": "MRH-DISC-40",
-    "imageUrl": "/images/fahl/discovery.png",
+    "imageUrl": "../images/fahl/discovery.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 7
@@ -183,10 +183,10 @@
     "material": "onyx",
     "price": 95,
     "sku": "MRH-J-M-BEAD-B12",
-    "imageUrl": "/images/marahil/marahil-prod-bracelet.png",
+    "imageUrl": "../images/marahil/marahil-prod-bracelet.png",
     "variantImages": {
-      "Gold": "/images/jewelry/fahl/gold_cuff_onyx_beads.jpg",
-      "Silver": "/images/jewelry/fahl/luxury_silver_cuff.jpg"
+      "Gold": "../images/jewelry/fahl/gold_cuff_onyx_beads.jpg",
+      "Silver": "../images/jewelry/fahl/luxury_silver_cuff.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -203,10 +203,10 @@
     "material": "gold",
     "price": 245,
     "sku": "MRH-J-M-CUFF-G",
-    "imageUrl": "/images/marahil/marahil-prod-cufflinks.png",
+    "imageUrl": "../images/marahil/marahil-prod-cufflinks.png",
     "variantImages": {
-      "Gold": "/images/jewelry/fahl/gold_cufflinks_velvet.jpg",
-      "Silver": "/images/jewelry/fahl/silver_cufflinks_velvet.jpg"
+      "Gold": "../images/jewelry/fahl/gold_cufflinks_velvet.jpg",
+      "Silver": "../images/jewelry/fahl/silver_cufflinks_velvet.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -223,10 +223,10 @@
     "material": "aqeeq",
     "price": 175,
     "sku": "MRH-J-M-RING-B",
-    "imageUrl": "/images/marahil/marahil-jew-rings.png",
+    "imageUrl": "../images/marahil/marahil-jew-rings.png",
     "variantImages": {
-      "Gold": "/images/jewelry/fahl/gold_signet_ring.jpg",
-      "Silver": "/images/jewelry/fahl/silver_signet_ring.jpg"
+      "Gold": "../images/jewelry/fahl/gold_signet_ring.jpg",
+      "Silver": "../images/jewelry/fahl/silver_signet_ring.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -243,10 +243,10 @@
     "material": "gold",
     "price": 195,
     "sku": "MRH-J-M-PEND-SQ",
-    "imageUrl": "/images/marahil/marahil-jew-necklace-gold.png",
+    "imageUrl": "../images/marahil/marahil-jew-necklace-gold.png",
     "variantImages": {
-      "Gold": "/images/jewelry/fahl/gold_pendant_necklace.jpg",
-      "Silver": "/images/jewelry/fahl/silver_pendant_velvet.jpg"
+      "Gold": "../images/jewelry/fahl/gold_pendant_necklace.jpg",
+      "Silver": "../images/jewelry/fahl/silver_pendant_velvet.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -263,7 +263,7 @@
     "material": "gold",
     "price": 395,
     "sku": "MRH-SET-BRO-01",
-    "imageUrl": "/images/gift-box/fahl/marahil_al_fahl_gift_box.jpg",
+    "imageUrl": "../images/gift-box/fahl/marahil_al_fahl_gift_box.jpg",
     "isActive": true,
     "isMemorialEdition": true,
     "sortOrder": 12
@@ -289,7 +289,7 @@
     "price100": 185,
     "sku": "MRH-A-BAD-50",
     "sku100": "MRH-A-BAD-100",
-    "imageUrl": "/images/aniqa/bad.png",
+    "imageUrl": "../images/aniqa/bad.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 1
@@ -315,7 +315,7 @@
     "price100": 185,
     "sku": "MRH-A-ISH-50",
     "sku100": "MRH-A-ISH-100",
-    "imageUrl": "/images/aniqa/ishraq.png",
+    "imageUrl": "../images/aniqa/ishraq.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 2
@@ -341,7 +341,7 @@
     "price100": 185,
     "sku": "MRH-A-ZUH-50",
     "sku100": "MRH-A-ZUH-100",
-    "imageUrl": "/images/aniqa/zuhr.png",
+    "imageUrl": "../images/aniqa/zuhr.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 3
@@ -367,7 +367,7 @@
     "price100": 185,
     "sku": "MRH-A-ATH-50",
     "sku100": "MRH-A-ATH-100",
-    "imageUrl": "/images/aniqa/athar.png",
+    "imageUrl": "../images/aniqa/athar.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 4
@@ -393,7 +393,7 @@
     "price100": 185,
     "sku": "MRH-A-WAS-50",
     "sku100": "MRH-A-WAS-100",
-    "imageUrl": "/images/aniqa/wasl.png",
+    "imageUrl": "../images/aniqa/wasl.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 5
@@ -419,7 +419,7 @@
     "price100": 185,
     "sku": "MRH-A-LAY-50",
     "sku100": "MRH-A-LAY-100",
-    "imageUrl": "/images/aniqa/layl.png",
+    "imageUrl": "../images/aniqa/layl.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 6
@@ -436,7 +436,7 @@
     "discoveryPrice": 85,
     "price": 85,
     "sku": "MRH-A-DISC-40",
-    "imageUrl": "/images/aniqa/discovery.png",
+    "imageUrl": "../images/aniqa/discovery.png",
     "isActive": true,
     "isMemorialEdition": false,
     "sortOrder": 7
@@ -452,10 +452,10 @@
     "material": "rose",
     "price": 95,
     "sku": "MRH-J-A-BEAD-R",
-    "imageUrl": "/images/jewelry/aniqa/bracelet_cuff_al_aniqa_rose_gold.png",
+    "imageUrl": "../images/jewelry/aniqa/bracelet_cuff_al_aniqa_rose_gold.png",
     "variantImages": {
-      "Rose Gold": "/images/jewelry/aniqa/bracelet_cuff_al_aniqa_rose_gold.png",
-      "Silver": "/images/jewelry/aniqa/silver_cuff_bracelet.jpg"
+      "Rose Gold": "../images/jewelry/aniqa/bracelet_cuff_al_aniqa_rose_gold.png",
+      "Silver": "../images/jewelry/aniqa/silver_cuff_bracelet.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -472,10 +472,10 @@
     "material": "rosegold",
     "price": 245,
     "sku": "MRH-J-A-CUFF-RG",
-    "imageUrl": "/images/jewelry/aniqa/earrings_stud_al_aniqa_rose_gold.png",
+    "imageUrl": "../images/jewelry/aniqa/earrings_stud_al_aniqa_rose_gold.png",
     "variantImages": {
-      "Rose Gold": "/images/jewelry/aniqa/earrings_stud_al_aniqa_rose_gold.png",
-      "Silver": "/images/jewelry/aniqa/silver_stud_earrings.jpg"
+      "Rose Gold": "../images/jewelry/aniqa/earrings_stud_al_aniqa_rose_gold.png",
+      "Silver": "../images/jewelry/aniqa/silver_stud_earrings.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -492,10 +492,10 @@
     "material": "pearl",
     "price": 175,
     "sku": "MRH-J-A-RING-P",
-    "imageUrl": "/images/jewelry/aniqa/ring_aqeeq_al_aniqa_rose_gold.png",
+    "imageUrl": "../images/jewelry/aniqa/ring_aqeeq_al_aniqa_rose_gold.png",
     "variantImages": {
-      "Rose Gold": "/images/jewelry/aniqa/ring_aqeeq_al_aniqa_rose_gold.png",
-      "Silver": "/images/jewelry/aniqa/silver_ring_blush_enamel.jpg"
+      "Rose Gold": "../images/jewelry/aniqa/ring_aqeeq_al_aniqa_rose_gold.png",
+      "Silver": "../images/jewelry/aniqa/silver_ring_blush_enamel.jpg"
     },
     "isActive": true,
     "isMemorialEdition": false,
@@ -512,7 +512,7 @@
     "material": "rosegold",
     "price": 395,
     "sku": "MRH-SET-ANA-01",
-    "imageUrl": "/images/gift-box/aniqa/luxury_black_gift_box.jpg",
+    "imageUrl": "../images/gift-box/aniqa/luxury_black_gift_box.jpg",
     "isActive": true,
     "isMemorialEdition": true,
     "sortOrder": 11
